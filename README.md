@@ -23,8 +23,8 @@ Before you get started, you'll need to have the following installed on your mach
 First, grab a copy of this repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/hacker-news-fastapi.git
-cd hacker-news-fastapi
+git clone https://github.com/MohamamdAzam/hacker-news-fastapi.git
+cd hacker_news_api
 ```
 
 ### Step 2: Set Up Your Environment
